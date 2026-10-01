@@ -21,16 +21,40 @@
                 </div>
                 <div>
                     <div>
-                        <h3>12</h3>
+                        <h4>16+</h4>
+                        <P>TAHUN PENGALAMAN</P>
+                    </div>
+                    <div>
+                        <h4>12</h4>
                         <p>MENU SIGNATURE</p>
                     </div>
                     <div>
-                        <h3>40</h3>
+                        <h4>40</h4>
                         <p>KAPASITAS TAMU</p>
                     </div>
                     <div>
-                        <h3></h3>
+                        <h4>7</h4>
+                        <p>RUANG PRIVAT</p>
                     </div>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <p>─── FILOSOFI DAPUR</p>
+                    <h2>
+                        "Kami tidak sekedar memasak rasa, <br>
+                        kami merangkai memori sensorik <br>
+                        abadi."
+                    </h2>
+                    <p>
+                        Di Novara, setiap elemen di atas piring adalah narasi yang terukur. <br>
+                        Menggabungkan kemewahan bahan terunggul dunia dengan <br>
+                        rempah liar yang dipanen berkelanjutan dari hutan tropis Halmahera <br>
+                    </p>
+                    <p>
+                        Dengan penghormatan tanpa kompromi pada presisi Prancis kuno. kami <br>
+                        
+                    </p>
                 </div>
             </div>
         </section>
