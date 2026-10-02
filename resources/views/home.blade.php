@@ -55,7 +55,7 @@
                     <p>
                         Dengan penghormatan tanpa kompromi pada presisi Prancis kuno. kami <br>
                         merestrukturisasi eksotisme Indonesia ke panggung haute cuisine internasional. <br>
-                        Tanpa kebisingan, hanya kejernihan rasa dan keanggunan tekstur. 
+                        Tanpa kebisingan, hanya kejernihan rasa dan keanggunan tekstur.
                     </p>
                 </div>
                 <div>
@@ -63,7 +63,7 @@
                         <h4>Michelin Selected 2024</h4>
                         <p>
                             Diakui atas ketepatan teknik, integrasi <br>
-                            terroir dan konsistensi luar biasa. 
+                            terroir dan konsistensi luar biasa.
                         </p>
                     </div>
                     <div>
@@ -75,9 +75,24 @@
                         </p>
                     </div>
                 </div>
-                
+            </div>
+            <div>
+                <div>
+                    <p>─── DEGUSTASI MUSIM SEMI</p>
+                    <h1>Karya Cipta Unggulan</h1>
+                </div>
+                <div>
+                    <p>
+                        Setiap hidangan dipasangkan secara presisi dengan anggur <br>
+                        tertua oleh Chef Sommelier kami.
+                    </p>
+                    <button>
+                        DAFTAR MENU LENGKAP 
+                    </button>
+                </div>
             </div>
         </section>
     </main>
 </body>
+
 </html>
