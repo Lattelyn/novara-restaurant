@@ -53,8 +53,26 @@
                     </p>
                     <p>
                         Dengan penghormatan tanpa kompromi pada presisi Prancis kuno. kami <br>
-                        
+                        merestrukturisasi eksotisme Indonesia ke panggung haute cuisine internasional. <br>
+                        Tanpa kebisingan, hanya kejernihan rasa dan keanggunan tekstur.
                     </p>
+                </div>
+                <div>
+                    <div>
+                        <h4>Michelin Selected 2024</h4>
+                        <p>
+                            Diakui atas ketepatan teknik, integrasi <br>
+                            terroir dan konsistensi luar biasa.
+                        </p>
+                    </div>
+                    <div>
+                        <h4>Terroir Terverifikasi</h4>
+                        <p>
+                            100% rempah didatangkan langsung <br>
+                            dari komunitas petani kebun mandiri <br>
+                            Nusantara.
+                        </p>
+                    </div>
                 </div>
             </div>
         </section>
