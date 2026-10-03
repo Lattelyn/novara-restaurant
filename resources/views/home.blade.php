@@ -75,6 +75,7 @@
                         </p>
                     </div>
                 </div>
+<<<<<<< HEAD
             </div>
             <div>
                 <div>
@@ -90,6 +91,8 @@
                         DAFTAR MENU LENGKAP 
                     </button>
                 </div>
+=======
+>>>>>>> 2ce5f6002c165da1c7d2e717dc31c721873ba944
             </div>
         </section>
     </main>
